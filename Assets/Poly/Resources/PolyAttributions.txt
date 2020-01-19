@@ -1,0 +1,55 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Bee
+Author: Paige Dansinger
+URL: https://poly.google.com/view/3B6hZJd7595
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Beebalm
+Author: Paige Dansinger
+URL: https://poly.google.com/view/3fxqpvRG7Fj
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: bees
+Author: Paige Dansinger
+URL: https://poly.google.com/view/1Q-BkIarudZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Bindwed / Morning Glory
+Author: Paige Dansinger
+URL: https://poly.google.com/view/7ylHIdOgLw8
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: dandelion
+Author: Paige Dansinger
+URL: https://poly.google.com/view/2q3DNKh6s0B
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dandelion
+Author: Paige Dansinger
+URL: https://poly.google.com/view/8Bp9_fYrkUO
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: dandelions I
+Author: Paige Dansinger
+URL: https://poly.google.com/view/89OfU-dr2qg
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: purslane
+Author: Paige Dansinger
+URL: https://poly.google.com/view/97I2E6xzCR2
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Wild Spinach
+Author: Paige Dansinger
+URL: https://poly.google.com/view/fPFESO93pLy
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
