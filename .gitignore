@@ -58,4 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-*.a
+*.xcuserstate
+/TheGarden000/
+/TheGarden001/
+/buildtest/
+/testbuild/
