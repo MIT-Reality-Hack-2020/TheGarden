@@ -1191,8 +1191,7 @@
 						};
 					};
 					5623C57217FDCB0800090B9E = {
-						DevelopmentTeam = NTZ5TKL8HU;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 						TestTargetID = 1D6058900D05DD3D006BFB54;
 					};
 				};
@@ -1590,7 +1589,6 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.taeyonii.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = thegarden;
-				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = iphoneos;
@@ -1665,7 +1663,6 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.taeyonii.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = thegarden;
-				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = iphoneos;
@@ -1696,9 +1693,9 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = NTZ5TKL8HU;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1718,7 +1715,6 @@
 				LD_GENERATE_MAP_FILE = YES;
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/Libraries/com.ptc.vuforia.engine/Vuforia/Plugins/iOS";
 				PRODUCT_NAME = thegarden;
-				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
 				SDKROOT = iphoneos;
@@ -1753,9 +1749,9 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = NTZ5TKL8HU;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1782,7 +1778,6 @@
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/Libraries/com.ptc.vuforia.engine/Vuforia/Plugins/iOS";
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = thegarden;
-				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
 				SDKROOT = iphoneos;
@@ -1881,7 +1876,6 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.taeyonii.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = thegarden;
-				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = iphoneos;
@@ -1912,9 +1906,9 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = NTZ5TKL8HU;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1934,7 +1928,6 @@
 				LD_GENERATE_MAP_FILE = YES;
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/Libraries/com.ptc.vuforia.engine/Vuforia/Plugins/iOS";
 				PRODUCT_NAME = thegarden;
-				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
 				SDKROOT = iphoneos;
@@ -2033,7 +2026,6 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.taeyonii.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = thegarden;
-				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SUPPORTED_PLATFORMS = iphoneos;
@@ -2064,9 +2056,9 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = NTZ5TKL8HU;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -2086,7 +2078,6 @@
 				LD_GENERATE_MAP_FILE = YES;
 				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/Libraries/com.ptc.vuforia.engine/Vuforia/Plugins/iOS";
 				PRODUCT_NAME = thegarden;
-				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
 				SDKROOT = iphoneos;
